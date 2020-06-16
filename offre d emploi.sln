@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "offre d emploi", "offre d emploi\offre d emploi.csproj", "{A724ED4B-559F-42D9-B111-349460B47782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A724ED4B-559F-42D9-B111-349460B47782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A724ED4B-559F-42D9-B111-349460B47782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A724ED4B-559F-42D9-B111-349460B47782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A724ED4B-559F-42D9-B111-349460B47782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DBB77A7-9E3F-483A-9B42-3A8C5A359282}
+	EndGlobalSection
+EndGlobal
